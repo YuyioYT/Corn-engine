@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\source",
+    "\\source\\flixel\\system",
+    "\\source\\states"
+  ],
+  "SelectedNode": "\\source\\states\\LoadingState.hx",
+  "PreviewInSolutionExplorer": false
+}
